@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ma page</title>
+</head>
+<body>
+<div class="main">
+<div class="main_navbar">
+<div class="navbar_find">
+<div class="navbar_subscribe">
+</div>
+<div class="navbar_apropos">
+</div>
+<div class="navbar_faq">
+</div>
+<div class="navbar_aide">
+</div>
+</div>
+<div class="main_container1">
+<div class="container1_slogan1">
+</div>
+<div class="container1_subscribe">
+</div>
+</div>
+<div class="main_container2">
+<div class="container2_info">
+</div>
+<div class="container2_slogan2">
+</div>
+</div>
+<div class="main_container3">
+<div class="container3_raison1">
+</div>
+<div class="container3_raison2">
+</div>
+<div class="container3_raison3">
+</div>
+<div class="container3_subscribe">
+</div>
+</div>
+<div class="main_footer">
+<div class="footer_find">
+</div>
+<div class="footer_subscribe">
+</div>
+<div class="footer_confidentialite">
+</div>
+<div class="footer_condition">
+</div>
+<div class="footer_copyright">
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
